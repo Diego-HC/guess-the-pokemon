@@ -1,0 +1,79 @@
+/* .blur-off {
+  pointer-events: none;
+  margin-top: 0%;
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+  filter: blur(0);
+}
+
+.blur-low {
+  pointer-events: none;
+  margin-top: 0%;
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+  filter: blur(1em);
+}  
+
+.blur-low-mid {
+  pointer-events: none;
+  margin-top: 0%;
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+  filter: blur(1.5em);
+}  
+
+.blur-mid {
+  pointer-events: none;
+  margin-top: 0%;
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+  filter: blur(2em);
+}  
+
+.blur-mid-high {
+  pointer-events: none;
+  margin-top: 0%;
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+  filter: blur(2.5em);
+}  
+
+.blur-high {
+  pointer-events: none;
+  margin-top: 0%;
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+  filter: blur(3em);
+}  
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  color: #fff;
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+}
+
+.guess-options {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+} */
